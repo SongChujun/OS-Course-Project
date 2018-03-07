@@ -1,0 +1,2 @@
+358     i386    mycall			sys_mycall
+359	i386	mycopy			sys_mycopy
